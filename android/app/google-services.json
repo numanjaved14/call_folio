@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074296448121",
+    "project_id": "callfolio",
+    "storage_bucket": "callfolio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074296448121:android:4949d1080152dbe0bc60a8",
+        "android_client_info": {
+          "package_name": "com.numan.calling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074296448121-neif3ikcq08ad46i2pdq762i6065b7m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.numan.calling_app",
+            "certificate_hash": "abb1c3dcfcc3fe781fe75bee5a842a7dc8caf40f"
+          }
+        },
+        {
+          "client_id": "1074296448121-nfcrnkb98mabkkjt3as3950ee5g094gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR6ihkDl9md1pL38ksPDInhD6W8Ct1rXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074296448121-nfcrnkb98mabkkjt3as3950ee5g094gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
